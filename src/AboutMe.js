@@ -58,7 +58,7 @@ const AboutMe = () => {
                             borderRadius: '50%', marginLeft: '30px', marginRight: '0'
                         }}>
                         <img
-                            src='/images/formal.jpg'
+                            src='formal.jpg'
                             style={{ display: 'inline', height: 'auto', width: '200px' }}>
                         </img>
                     </div>
