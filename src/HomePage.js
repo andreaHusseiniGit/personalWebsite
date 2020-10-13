@@ -29,7 +29,7 @@ const HomePage = () => {
             style={{ position: 'relative', height: '800px' }}
             className='img-background'>
             <img
-                src="/personalWebsite/images/orange.JPG"
+                src="/personalWebsite/build/images/orange.JPG"
                 style={{
                     position: 'absolute', width: '100vw', height: '800px',
                     objectFit: 'cover', zIndex: '-1'
